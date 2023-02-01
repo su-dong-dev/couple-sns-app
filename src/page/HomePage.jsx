@@ -7,6 +7,9 @@ const HomePage = () => {
   return (
     <ScrollView style={{flex: 1}}>
       <MainCard />
+      <MainCard />
+      <MainCard />
+      <MainCard />
     </ScrollView>
   );
 };
